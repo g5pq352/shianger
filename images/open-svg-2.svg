@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" width="25.92" height="23.21" viewBox="0 0 25.92 23.21">
+  <g id="c" data-name="首頁">
+    <g>
+      <line x1="13.08" y1="3.21" x2="13.08" y2="20" style="fill: none; stroke: #fdf6ea; stroke-miterlimit: 10;"/>
+      <line x1="3.4" y1="11.73" x2="22.71" y2="11.73" style="fill: none; stroke: #fdf6ea; stroke-miterlimit: 10;"/>
+      <g>
+        <path d="M13.13,11.64l-4.01-.99c-.77-.19-1.14-1.07-.75-1.75h0c.4-.69,1.34-.8,1.89-.23l2.86,2.97Z" style="fill: none; stroke: #fdf6ea; stroke-miterlimit: 10;"/>
+        <path d="M13.1,11.64l4.01-.99c.77-.19,1.14-1.07,.75-1.75h0c-.4-.69-1.34-.8-1.89-.23l-2.86,2.97Z" style="fill: none; stroke: #fdf6ea; stroke-miterlimit: 10;"/>
+        <path d="M18.82,14.19c-3.17,0-5.74-1.18-5.74-2.64" style="fill: none; stroke: #fdf6ea; stroke-miterlimit: 10;"/>
+        <path d="M13.08,11.55c0,1.46-2.57,2.64-5.74,2.64" style="fill: none; stroke: #fdf6ea; stroke-miterlimit: 10;"/>
+      </g>
+      <line x1="1.58" y1=".5" x2="24.34" y2=".5" style="fill: none; stroke: #fdf6ea; stroke-miterlimit: 10;"/>
+      <line x1=".5" y1="2.13" x2=".5" y2="20.54" style="fill: none; stroke: #fdf6ea; stroke-miterlimit: 10;"/>
+      <line x1="25.42" y1="2.13" x2="25.42" y2="20.54" style="fill: none; stroke: #fdf6ea; stroke-miterlimit: 10;"/>
+      <line x1="1.58" y1="22.71" x2="24.34" y2="22.71" style="fill: none; stroke: #fdf6ea; stroke-miterlimit: 10;"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" width="111.81" height="127.28" viewBox="0 0 111.81 127.28">
+  <g id="c" data-name="圖層 3">
+    <g>
+      <path d="M37.41,123.35c3.86,1.37,7.84,2.3,11.86,2.78,16.23,1.95,33.17-3.3,45.63-15.76,21.54-21.54,21.54-56.46,0-78-21.54-21.54-56.46-21.54-78,0-21.54,21.54-21.54,56.46,0,78" style="fill: none; stroke: #80292d; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.5px;"/>
+      <g>
+        <path d="M90.08,101.85c0-17.55-15.73-31.78-35.14-31.78s-35.14,14.23-35.14,31.78" style="fill: none; stroke: #80292d; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.5px;"/>
+        <line x1="25.17" y1="101.85" x2="83.94" y2="101.85" style="fill: none; stroke: #80292d; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.5px;"/>
+      </g>
+      <path d="M48.55,62.46c1.77,1.18,3.82,1.85,6.01,1.85,6.69,0,12.11-6.3,12.11-14.07s-5.42-14.07-12.11-14.07-12.11,6.3-12.11,14.07c0,3.3,.98,6.33,2.61,8.73" style="fill: none; stroke: #80292d; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.5px;"/>
+      <g>
+        <path d="M39.48,1.42h0m-.11,.19l11.86,12.32-16.6-4.11L39.36,1.61M39.33,0c-.45,0-.9,.23-1.15,.67l-4.97,8.6c-.44,.77-.03,1.75,.83,1.96l21.86,5.41L40.29,.41C40.03,.13,39.68,0,39.33,0h0Z" style="fill: #80292d;"/>
+        <path d="M72.5,1.45h0m-.16,.16l4.74,8.21-16.6,4.11L72.35,1.61M72.38,0c-.34,0-.69,.13-.96,.41l-15.61,16.23,21.86-5.41c.86-.21,1.28-1.19,.83-1.96L73.53,.67C73.28,.23,72.83,0,72.38,0h0Z" style="fill: #80292d;"/>
+        <path d="M80.11,27.46c-13.48,0-24.41-5.03-24.41-11.24" style="fill: none; stroke: #80292d; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.5px;"/>
+        <path d="M55.7,16.22c0,6.21-10.93,11.24-24.41,11.24" style="fill: none; stroke: #80292d; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.5px;"/>
+      </g>
+    </g>
+  </g>
+</svg>

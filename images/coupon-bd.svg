@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" width="6.71" height="53.5" viewBox="0 0 6.71 53.5">
+  <g id="c" data-name="圖層 1">
+    <g>
+      <ellipse cx="3.36" cy="3.51" rx="2.87" ry="3.02" style="fill: none; stroke: #8a202a; stroke-miterlimit: 10; stroke-width: .97px;"/>
+      <ellipse cx="3.36" cy="19" rx="2.87" ry="3.02" style="fill: none; stroke: #8a202a; stroke-miterlimit: 10; stroke-width: .97px;"/>
+      <ellipse cx="3.36" cy="34.5" rx="2.87" ry="3.02" style="fill: none; stroke: #8a202a; stroke-miterlimit: 10; stroke-width: .97px;"/>
+      <ellipse cx="3.36" cy="49.99" rx="2.87" ry="3.02" style="fill: none; stroke: #8a202a; stroke-miterlimit: 10; stroke-width: .97px;"/>
+    </g>
+  </g>
+</svg>

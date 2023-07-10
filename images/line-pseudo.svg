@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" width="9.2" height="11.83" viewBox="0 0 9.2 11.83">
+  <g id="c" data-name="圖層 1">
+    <g>
+      <line x1="4.6" y1="1.25" x2="4.6" y2="10.58" style="fill: none; stroke: #c7ba99; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2.5px;"/>
+      <line x1="7.95" y1="1.25" x2="7.95" y2="10.58" style="fill: none; stroke: #c7ba99; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2.5px;"/>
+      <line x1="1.25" y1="1.25" x2="1.25" y2="10.58" style="fill: none; stroke: #c7ba99; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2.5px;"/>
+      <g>
+        <line x1="4.6" y1="1.25" x2="4.6" y2="10.58" style="fill: none; stroke: #89202a; stroke-miterlimit: 10; stroke-width: .5px;"/>
+        <line x1="7.95" y1="1.25" x2="7.95" y2="10.58" style="fill: none; stroke: #89202a; stroke-miterlimit: 10; stroke-width: .5px;"/>
+        <line x1="1.25" y1="1.25" x2="1.25" y2="10.58" style="fill: none; stroke: #89202a; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" width="30.29" height="28.77" viewBox="0 0 30.29 28.77">
+  <g id="c" data-name="首頁">
+    <g>
+      <path d="M27.6,28.63H2.69c-1.4,0-2.55-1.14-2.55-2.55V5.73C.15,4.33,1.29,3.18,2.69,3.18H27.6c1.4,0,2.55,1.14,2.55,2.55V26.08c0,1.4-1.14,2.55-2.55,2.55ZM2.69,3.56c-1.19,0-2.17,.97-2.17,2.17V26.08c0,1.19,.97,2.17,2.17,2.17H27.6c1.19,0,2.17-.97,2.17-2.17V5.73c0-1.19-.97-2.17-2.17-2.17H2.69Z" style="fill: #80292d; stroke: #80292d; stroke-miterlimit: 10; stroke-width: .29px;"/>
+      <path d="M29.79,8.88H.5c-.2,0-.36-.16-.36-.36v-2.75C.15,4.35,1.31,3.18,2.74,3.18H27.55c1.43,0,2.59,1.16,2.59,2.59v2.75c0,.2-.16,.36-.36,.36ZM2.74,3.56c-1.22,0-2.21,.99-2.21,2.21v2.75l29.24-.02v-2.72c0-1.22-.99-2.21-2.21-2.21H2.74Z" style="fill: #80292d; stroke: #80292d; stroke-miterlimit: 10; stroke-width: .29px;"/>
+      <path d="M8.12,6.6c-.42,0-.76-.34-.76-.76V.91c0-.42,.34-.76,.76-.76s.76,.34,.76,.76V5.84c0,.42-.34,.76-.76,.76Z" style="fill: #80292d; stroke: #80292d; stroke-miterlimit: 10; stroke-width: .29px;"/>
+      <path d="M22.74,6.6c-.42,0-.76-.34-.76-.76V.91c0-.42,.34-.76,.76-.76s.76,.34,.76,.76V5.84c0,.42-.34,.76-.76,.76Z" style="fill: #80292d; stroke: #80292d; stroke-miterlimit: 10; stroke-width: .29px;"/>
+      <rect x="3.94" y="12.3" width="6.21" height="4.6" rx="1.64" ry="1.64" style="fill: #80292d; stroke: #80292d; stroke-miterlimit: 10; stroke-width: .29px;"/>
+      <rect x="12.23" y="12.3" width="6.21" height="4.6" rx="1.64" ry="1.64" style="fill: #80292d; stroke: #80292d; stroke-miterlimit: 10; stroke-width: .29px;"/>
+      <rect x="20.51" y="12.3" width="6.21" height="4.6" rx="1.64" ry="1.64" style="fill: #80292d; stroke: #80292d; stroke-miterlimit: 10; stroke-width: .29px;"/>
+      <rect x="3.94" y="19.45" width="6.21" height="4.6" rx="1.64" ry="1.64" style="fill: #80292d; stroke: #80292d; stroke-miterlimit: 10; stroke-width: .29px;"/>
+      <rect x="12.23" y="19.45" width="6.21" height="4.6" rx="1.64" ry="1.64" style="fill: #80292d; stroke: #80292d; stroke-miterlimit: 10; stroke-width: .29px;"/>
+      <rect x="20.51" y="19.45" width="6.21" height="4.6" rx="1.64" ry="1.64" style="fill: #80292d; stroke: #80292d; stroke-miterlimit: 10; stroke-width: .29px;"/>
+    </g>
+  </g>
+</svg>

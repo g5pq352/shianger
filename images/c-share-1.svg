@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" width="46.03" height="46.07" viewBox="0 0 46.03 46.07">
+  <g id="c" data-name="圖層 1">
+    <g>
+      <rect x="0" y="0" width="46.03" height="46.03" rx="4.13" ry="4.13" style="fill: #762f30;"/>
+      <path d="M30.44,46.07V29.06h5.71l.85-6.63h-6.56v-4.23c0-1.92,.53-3.23,3.29-3.23h3.51v-5.93c-.61-.08-2.69-.26-5.12-.26-5.06,0-8.53,3.09-8.53,8.76v4.89h-5.72v6.63h5.72v17.01h6.85" style="fill: #fdf6e9;"/>
+    </g>
+  </g>
+</svg>

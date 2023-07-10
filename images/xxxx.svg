@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" width="34.77" height="31.86" viewBox="0 0 34.77 31.86">
+  <g id="c" data-name="視窗">
+    <g>
+      <g>
+        <line x1="8.5" y1="19.3" x2="26.27" y2="12.56" style="fill: none; stroke: #80292d; stroke-miterlimit: 10;"/>
+        <line x1="8.5" y1="12.56" x2="26.27" y2="19.3" style="fill: none; stroke: #80292d; stroke-miterlimit: 10;"/>
+      </g>
+      <ellipse cx="17.39" cy="15.93" rx="16.89" ry="15.43" style="fill: none; stroke: #80292d; stroke-miterlimit: 10;"/>
+    </g>
+  </g>
+</svg>

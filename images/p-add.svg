@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" width="56.51" height="56.51" viewBox="0 0 56.51 56.51">
+  <g id="c" data-name="圖層 1">
+    <g>
+      <circle cx="28.26" cy="28.26" r="27.76" style="fill: none; stroke: #89202a; stroke-miterlimit: 10;"/>
+      <line x1="9.48" y1="28.26" x2="47.03" y2="28.26" style="fill: none; stroke: #89202a; stroke-miterlimit: 10;"/>
+      <line x1="28.26" y1="40.92" x2="28.26" y2="15.59" style="fill: none; stroke: #89202a; stroke-miterlimit: 10;"/>
+    </g>
+  </g>
+</svg>

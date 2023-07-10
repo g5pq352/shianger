@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" width="62.83" height="27.2" viewBox="0 0 62.83 27.2">
+  <g id="c" data-name="圖層 2">
+    <line x1="62.77" y1="2.65" x2="4.06" y2="2.65" style="fill: none; stroke: #c7ba99; stroke-miterlimit: 10; stroke-width: .25px;"/>
+    <line x1="62.77" y1="1.39" x2="4.06" y2="1.39" style="fill: none; stroke: #c7ba99; stroke-miterlimit: 10; stroke-width: .25px;"/>
+    <line x1="62.77" y1=".12" x2="4.06" y2=".12" style="fill: none; stroke: #c7ba99; stroke-miterlimit: 10; stroke-width: .25px;"/>
+    <line x1="62.71" y1="27.08" x2="3.99" y2="27.08" style="fill: none; stroke: #c7ba99; stroke-miterlimit: 10; stroke-width: .25px;"/>
+    <line x1="62.71" y1="25.81" x2="3.99" y2="25.81" style="fill: none; stroke: #c7ba99; stroke-miterlimit: 10; stroke-width: .25px;"/>
+    <line x1="62.77" y1="24.55" x2="4.06" y2="24.55" style="fill: none; stroke: #c7ba99; stroke-miterlimit: 10; stroke-width: .25px;"/>
+    <line x1="60.18" y1="22.73" x2="60.18" y2="6.28" style="fill: none; stroke: #89202a; stroke-miterlimit: 10; stroke-width: .25px;"/>
+    <line x1="61.44" y1="22.73" x2="61.44" y2="6.28" style="fill: none; stroke: #89202a; stroke-miterlimit: 10; stroke-width: .25px;"/>
+    <line x1="62.71" y1="22.73" x2="62.71" y2="6.28" style="fill: none; stroke: #89202a; stroke-miterlimit: 10; stroke-width: .25px;"/>
+    <line x1=".12" y1="27.08" x2=".13" y2="1.52" style="fill: none; stroke: #89202a; stroke-miterlimit: 10; stroke-width: .25px;"/>
+    <line x1="1.39" y1="27.08" x2="1.39" y2="1.52" style="fill: none; stroke: #89202a; stroke-miterlimit: 10; stroke-width: .25px;"/>
+    <line x1="2.65" y1="27.08" x2="2.65" y2="1.52" style="fill: none; stroke: #89202a; stroke-miterlimit: 10; stroke-width: .25px;"/>
+  </g>
+</svg>
