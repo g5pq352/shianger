@@ -43,55 +43,12 @@ if (navigator.appVersion.indexOf("Mac") != -1) {
 
 
 
-
 $("#preload").delay(500).fadeOut(500)
-
 
 
 var wow = new WOW({
 	callback: function (el) {}
 }).init();
-
-// const $menu_tl = gsap.timeline({
-// 	paused: true,
-// }).from([
-// 	$(".topmenu-fixed .topmenuList li"),
-// 	$(".topmenu-fixed .member-area li"),
-// 	$(".topmenu-fixed .cart")
-// ], {
-// 	duration: 1,
-// 	opacity: 0,
-// 	y: -120,
-// 	stagger: {
-// 		each: .123,
-// 		from: "end",
-// 	},
-// 	ease: "circle.out"
-// })
-
-
-
-let _menuopen = false
-
-
-// ScrollTrigger.create({
-// 	toggleActions: "play none play none", //重覆觸發
-// 	trigger: "body",
-// 	start: () => window.innerHeight + ' 50%',
-// 	end: "bottom top", // no end
-// 	onToggle: self => {
-// 		if (self.isActive) {
-// 			if (_menuopen) { return false; }
-// 			$menu_tl.play(0)
-// 			_menuopen = true
-// 		} else {
-// 			// $menu_tl.reverse()
-// 		}
-// 	},
-// 	// markers: true,
-// });
-
-
 
 
 
@@ -199,7 +156,24 @@ $(".hamburger-area").on("click", function() {
 
 
 
-
+//屏蔽右键
+document.oncontextmenu = function (event){
+    if(window.event){
+    event = window.event;
+    }
+    try{
+    var the = event.srcElement;
+        if (!((the.tagName == "INPUT" && the.type.toLowerCase() == "text") || the.tagName == "TEXTAREA")){
+        return false;
+        }
+        return true;
+    }
+    catch (e){
+        return false;
+    }
+}
+//禁止圖片拖曳
+$("img").attr("draggable", false)
 
 
 

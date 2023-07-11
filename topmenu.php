@@ -10,10 +10,10 @@
 			<div class="box"></div>
 
 			<ul class="topmenuList grid-x">
-				<li class="cell large-shrink"><a href="./">
+				<!-- <li class="cell large-shrink"><a href="./">
 					<span>首頁</span>
 					<span>首頁</span>
-				</a></li>
+				</a></li> -->
 				<li class="cell large-shrink"><a href="about.php">
 					<span>關於我們</span>
 					<span>關於我們</span>
@@ -112,7 +112,7 @@
 		<div class="logo text-center"><a href="./"><img src="images/mobile-open-logo.svg"></a></div>
 
 		<ul class="topmenuList">
-			<li><a href="./">首頁<span class="deco"></span></a></li>
+			<!-- <li><a href="./">首頁<span class="deco"></span></a></li> -->
 			<li><a href="about.php">關於我們<span class="deco"></span></a></li>
 			<li><a href="news.php">最新消息<span class="deco"></span></a></li>
 			<li><a href="product.php">產品訂購<span class="deco"></span></a></li>

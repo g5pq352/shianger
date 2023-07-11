@@ -28,7 +28,7 @@
 				<ul class="infoList">
 					<li class="grid-x align-middle large-up-2">
 						<div class="item cell grid-x">
-							<div class="title cell shrink">營業時間</div>
+							<div class="title cell shrink">營業日</div>
 							<div class="content cell auto">星期⼀~星期日</div>
 						</div>
 
@@ -41,7 +41,7 @@
 					<li class="grid-x align-middle large-up-2">
 						<div class="item cell grid-x">
 							<div class="title cell shrink">營業時間</div>
-							<div class="content cell auto">AM09:00~PM09:00</div>
+							<div class="content cell auto">09:00~21:00</div>
 						</div>
 
 						<div class="item cell grid-x">

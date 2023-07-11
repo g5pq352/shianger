@@ -71,7 +71,7 @@
 		<div class="sp-head-area right">
 			<div class="article-area grid-x align-bottom align-right" data-r='{"y": 30, "delay": 0.5}'>
 				<div class="content large-order-1 small-order-2">
-					手工現做品質，新鮮看的見、吃得到，嚴選安全衛生的優質原物料。
+					手工現做—品質新鮮看得見；嚴選衛生安全且優質的原物料，吃的更安心。
 				</div>
 				<div class="head"><img src="images/about-head-2.svg"></div>
 			</div>

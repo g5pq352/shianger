@@ -1027,13 +1027,15 @@ body{
 			    &:last-child{
 			    	margin-right: 8px;
 			    }
-			    &.current{
-			    	background-color: transparent;
-			    }
 			}
 			.title{
 				@include breakpoint(xlarge only){
 					font-size: 24px;
+				}
+			}
+			&:hover, &.current{
+				@include breakpoint(medium down){
+					background-color: transparent;
 				}
 			}
 		}
@@ -4342,7 +4344,7 @@ body{
 				}
 				.topmenuList{
 					li{
-						@include mr(70px);
+						@include mr(50px);
 						@include breakpoint(xlarge down){
 							@include mr(2.5vw);
 						}
@@ -4388,7 +4390,7 @@ body{
 					letter-spacing: 4px;
 					overflow: hidden;
 					color: $red;
-					@include mr(110px);
+					@include mr(90px);
 					@include breakpoint(xlarge only){
 						@include mr(2.5vw);
 					}
@@ -9127,23 +9129,25 @@ body{
 		    	zoom: 0.8;
 		    }
 		    @include breakpoint(medium down){
-		    	margin-right: 140px;
+		    	margin-right: 40px;
 		    	img{height: 170px;}
 	    	}
 		}
 		.content{
 			position: relative;
 			font-family: $content-family;
-			writing-mode: vertical-rl;
+			// writing-mode: vertical-rl;
 			text-align: justify;
 			max-height: 160px;
 			font-size: 18px;
 			color: #4D4D4D;
-			letter-spacing: 6px;
+			// letter-spacing: 6px;
+			letter-spacing: 2px;
 			line-height: 1.5;
 			padding-top: 20px;
 			border-top: 2px solid $red;
-		    text-orientation: upright;
+		    // text-orientation: upright;
+	        max-width: 300px;
 			@include breakpoint(xlarge down){
 				font-size: 15px;
 				padding-top: 15px;
@@ -9151,7 +9155,7 @@ body{
 			@include breakpoint(medium down){
 				font-size: 13px;
 				border-top: 0;
-			    max-height: 120px;
+				max-width: 170px;
 			}
 			&:after{
 				position: absolute;
@@ -9280,13 +9284,12 @@ body{
 		.article-area{
 			.head{
 				@include breakpoint(medium down){
-					margin-right: 70px;
+					margin-right: 40px;
 				}
 			}
 			.content{
 			    max-height: 200px;
 			    @include breakpoint(medium down){
-				    max-height: 140px;
 				}
 			}
 		}
