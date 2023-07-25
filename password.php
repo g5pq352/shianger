@@ -15,7 +15,7 @@
 		<div class="login-container">
 			<div class="head"><img src="images/password-head.svg" width="300"></div>
 
-			<form action="member.php" method="POST" class="loginForm">
+			<form action="login.php" method="POST" class="loginForm">
 				<div class="field-container">
 					<div class="item">
 						<div class="title">密碼</div>

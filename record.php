@@ -109,7 +109,7 @@
 								<li>託運單號</li>
 								<li class="show-for-large"></li>
 								<li class="show-for-large"></li>
-								<li>查看貨運狀態</li>
+								<li></li>
 								<li class="show-for-large"></li>
 							</ul>
 
@@ -194,10 +194,10 @@
 							<ul class="data-area">
 								<li>分類</li>
 								<li>託運單號</li>
+								<li class="show-for-large"></li>
+								<li class="show-for-large"></li>
 								<li></li>
-								<li></li>
-								<li></li>
-								<li>查看貨運狀態</li>
+								<li class="show-for-large"></li>
 							</ul>
 
 							<div class="good-area grid-x align-top">
@@ -281,10 +281,10 @@
 							<ul class="data-area">
 								<li>分類</li>
 								<li>託運單號</li>
+								<li class="show-for-large"></li>
+								<li class="show-for-large"></li>
 								<li></li>
-								<li></li>
-								<li></li>
-								<li>查看貨運狀態</li>
+								<li class="show-for-large"></li>
 							</ul>
 
 							<div class="good-area grid-x align-top">

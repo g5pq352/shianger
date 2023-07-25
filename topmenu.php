@@ -84,7 +84,6 @@
 		</div>
 	</div>
 
-
 	<?php if(isset($now) && $now == 'index') : ?>
 	<div class="calendar cell shrink top-calendar">
 		<div class="icon"><img src="images/member-icon-mobile-4.svg"></div>
@@ -94,10 +93,10 @@
 	</div>
 	<?php endif ?>
 
-	<!-- <div class="cart cell shrink addtocart">
+	<div class="cart cell shrink addtocart">
 		<div class="number">3</div>
 		<img src="images/member-icon-mobile-1.svg">
-	</div> -->
+	</div>
 
 	<!-- <div class="member cell shrink"><a href="member_list.php"><img src="images/member-icon-mobile-2.svg"></a></div> -->
 

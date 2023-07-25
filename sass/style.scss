@@ -568,8 +568,8 @@ body{
 		grid-gap: 70px 60px;
 	}
 	@include breakpoint(medium down){
-		grid-template-columns: 1fr;
-		grid-gap: 60px 0;
+		grid-template-columns: repeat(2, 1fr);
+		grid-gap: 60px 12px;
 	}
 	li{
 		@include m-product-item;
