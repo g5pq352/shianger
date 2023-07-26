@@ -130,7 +130,7 @@ $(".ryder-split").each(function(i, el) {
 
 
 
-$(".fancy-close, .fancy-closeBlock, .dialog-fancyContainer .btn, .m-fancyWrap .close").on("click", function() {
+$(".fancy-close, .fancy-closeBlock, .dialog-fancyContainer .btn, .m-fancyWrap .close, #gokeep").on("click", function() {
 	$(".m-fancyWrap").removeClass("is-show")
 	gsap.delayedCall(0.5, function() {
 		$("body").removeClass("is-lock")

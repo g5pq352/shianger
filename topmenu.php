@@ -162,37 +162,47 @@
 	<div class="addtocart-fancy-innerWrap">
 		<div class="fancy-close"><img src="images/fancy-close.svg"></div>
 
-		<section class="fancy-tableWrap" id="menuapp">
-			<ul class="head-area">
-				<li>品項</li>
-				<li>規格</li>
-				<li>數量</li>
-				<li>金額</li>
-			</ul>
+		<?php $noitem=1; if($noitem) : ?>
+			<section class="fancy-tableWrap">
+				<div class="body-area">
+					<div class="pic-item"><img src="images/noitem.png" width="338"></div>
+				</div>
 
-			<div class="body-area">
-				<section class="plist">
-					<menu-item v-for="(post, c) in posts" :post="post" :c="c"></menu-item>
-				</section>
-			</div>
+				<div class="gokeep"><a href="javascript:;"><img src="images/gokeep.svg" id="gokeep"></a></div>
+			</section>
+		<?php else : ?>
+			<section class="fancy-tableWrap" id="menuapp">
+				<ul class="head-area">
+					<li>品項</li>
+					<li>規格</li>
+					<li>數量</li>
+					<li>金額</li>
+				</ul>
 
-			<!-- <ul class="total-area">
-			<li class="grid-x align-right align-middle">
-			<div class="title cell shrink">小計</div>
-			<div class="content cell shrink">${{total}}</div>
-			</li>
-			<li class="grid-x align-right align-middle">
-			<div class="title cell shrink">運費</div>
-			<div class="content cell shrink">$150</div>
-			</li>
-			<li class="grid-x align-right align-middle">
-			<div class="title cell shrink">總計</div>
-			<div class="content cell shrink">${{total}}</div>
-			</li>
-			</ul> -->
+				<div class="body-area">
+					<section class="plist">
+						<menu-item v-for="(post, c) in posts" :post="post" :c="c"></menu-item>
+					</section>
+				</div>
 
-			<div class="gocheck"><a href="confirm.php"><img src="images/gocheck.svg"></a></div>
-		</section>
+				<!-- <ul class="total-area">
+				<li class="grid-x align-right align-middle">
+				<div class="title cell shrink">小計</div>
+				<div class="content cell shrink">${{total}}</div>
+				</li>
+				<li class="grid-x align-right align-middle">
+				<div class="title cell shrink">運費</div>
+				<div class="content cell shrink">$150</div>
+				</li>
+				<li class="grid-x align-right align-middle">
+				<div class="title cell shrink">總計</div>
+				<div class="content cell shrink">${{total}}</div>
+				</li>
+				</ul> -->
+
+				<div class="gocheck"><a href="confirm.php"><img src="images/gocheck.svg"></a></div>
+			</section>
+		<?php endif ?>
 	</div>
 </div>
 

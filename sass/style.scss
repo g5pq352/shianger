@@ -2146,7 +2146,7 @@ body{
 .fancy-tableWrap{
 	background-color: #FFF8EB;
 	max-width: 1200px;
-	padding: 122px 70px 60px;
+	padding: 80px 110px 60px;
 	border-radius: 12px;
 	@include breakpoint(xlarge only){
 	    max-width: 1000px;
@@ -2417,6 +2417,13 @@ body{
 			padding-right: 37px;
 			text-align: right;
 		}
+		.pic-item{
+		    padding: 0px 220px;
+    		margin-bottom: 50px;
+    		@include breakpoint(medium down){
+    			padding: 0px 40px;
+    		}
+		}
 	}
 	.total-area{
 		margin-top: 20px;
@@ -2452,6 +2459,14 @@ body{
 		}
 		@include breakpoint(medium down){
 			zoom: 0.75;
+		}
+	}
+	.gokeep{
+		text-align: center;
+		img{
+			@include breakpoint(medium down){
+			    max-width: 146px;
+			}
 		}
 	}
 }
